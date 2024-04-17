@@ -10,7 +10,7 @@ A stack is a linear data structure that holds a linear, ordered sequence of elem
 All insertions can occur only at the top of the stack. Stacks  are used for backtracking ie checking to match in an expression. Stacks are used to convert 
 one form of expression to another.
 
-##Queues
+## Queues
 A queue is a collection that consists of a collection of items that follow the first-in-fist-out rule. This implies the first item to be inserted is the first item to be removed 
 
 
